@@ -17,12 +17,12 @@
 
 ## Workloads & Scheduling
 
+- Understand application deployments and how to perform rolling update and rollbacks
     - Define, build and modify container images (CKAD)
     - Choose and use the right workload resource (Deployment, DaemonSet, CronJob, etc.) (CKAD)
     - Understand multi-container Pod design patterns (e.g. sidecar, init and others) (CKAD)
     - Use Kubernetes primitives to implement common deployment strategies (e.g. blue/green or canary) (CKAD)
     - Understand Deployments and how to perform rolling updates (CKAD)
-- Understand application deployments and how to perform rolling update and rollbacks
 - Use ConfigMaps and Secrets to configure applications
     - Understand ConfigMaps (CKAD)
     - Create & consume Secrets (CKAD)
