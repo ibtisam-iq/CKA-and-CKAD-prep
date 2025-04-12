@@ -17,6 +17,11 @@
 
 ## Workloads & Scheduling
 
+    - Define, build and modify container images (CKAD)
+    - Choose and use the right workload resource (Deployment, DaemonSet, CronJob, etc.) (CKAD)
+    - Understand multi-container Pod design patterns (e.g. sidecar, init and others) (CKAD)
+    - Use Kubernetes primitives to implement common deployment strategies (e.g. blue/green or canary) (CKAD)
+    - Understand Deployments and how to perform rolling updates (CKAD)
 - Understand application deployments and how to perform rolling update and rollbacks
 - Use ConfigMaps and Secrets to configure applications
     - Understand ConfigMaps (CKAD)
@@ -24,11 +29,6 @@
 - Configure workload autoscaling
 - Understand the primitives used to create robust, self-healing, application deployments
 - Configure Pod admission and scheduling (limits, node affinity, etc.)
-    - Define, build and modify container images (CKAD)
-    - Choose and use the right workload resource (Deployment, DaemonSet, CronJob, etc.) (CKAD)
-    - Understand multi-container Pod design patterns (e.g. sidecar, init and others) (CKAD)
-    - Use Kubernetes primitives to implement common deployment strategies (e.g. blue/green or canary) (CKAD)
-    - Understand Deployments and how to perform rolling updates (CKAD)
     - Understand requests, limits, quotas (CKAD)
     - Define resource requirements (CKAD)
     
