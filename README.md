@@ -54,14 +54,14 @@
 
 - Understand connectivity between Pods
 - Define and enforce Network Policies
+    - Demonstrate basic understanding of NetworkPolicies (CKAD)
 - Use ClusterIP, NodePort, LoadBalancer service types and endpoints
 - Use the Gateway API to manage Ingress traffic
 - Know how to use Ingress controllers and Ingress resources
-- Understand and use CoreDNS
-    - Demonstrate basic understanding of NetworkPolicies (CKAD)
-    - Provide and troubleshoot access to applications via services (CKAD)
     - Use Ingress rules to expose applications (CKAD)
-
+- Understand and use CoreDNS 
+    - Provide and troubleshoot access to applications via services (CKAD)
+    
 ---
 
 ## Application Observability and Maintenance
