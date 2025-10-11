@@ -80,4 +80,4 @@
 - probes, authentication and authorization, requests, limits, quotas, ConfigMaps, Secrets, ServiceAccounts, SecurityContexts, Capabilities
 - NetworkPolicies, provide and troubleshoot access to applications via services, Ingress
 - Helm, Kustomize
-- API deprecations, `kubectl logs`, `kubectl top`, `Debugging in Kubernetes`
+- API deprecations, `kubectl logs`, `kubectl top`, Debugging in Kubernetes
