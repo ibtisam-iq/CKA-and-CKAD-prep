@@ -73,4 +73,11 @@
 - Debugging in Kubernetes
 
 
+---
 
+- Define, build and modify container images
+- Deployment, DaemonSet, CronJob, Sidecar, Init, Persistent and Ephemeral Volumes, blue/green or canary, Rollout, CRD
+- probes, authentication and authorization, requests, limits, quotas, ConfigMaps, Secrets, ServiceAccounts, SecurityContexts, Capabilities
+- NetworkPolicies, provide and troubleshoot access to applications via services, Ingress
+- Helm, Kustomize
+- API deprecations, `kubectl logs`, `kubectl top`, `Debugging in Kubernetes`
