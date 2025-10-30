@@ -81,3 +81,9 @@
 - NetworkPolicies, provide and troubleshoot access to applications via services, Ingress
 - Helm, Kustomize
 - API deprecations, `kubectl logs`, `kubectl top`, Debugging in Kubernetes 
+
+---
+
+- Troubleshoot: clusters, nodes, cluster components, cluster and application resource usage, container output streams, services and networking
+- Workload autoscaling, Gateway API to manage Ingress traffic
+- Underlying infrastructure preparation, create manage and upgrade cluster using kubeadm, highly-available control plane
